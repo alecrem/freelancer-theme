@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2017-12-04
+img: koyomito.png
+alt: Koyomito
+project-date: Diciembre 2017
+category: Aplicación smartphone
+description: Empieza una ligera inmersión en el japonés con esta sencilla aplicación que actúa como un calendario japonés. Por supuesto, en la pantalla principal está todo en kanji. Pero he incluído explicaciones y pronunciaciones de un montón de cosas, así que cada kanji que no recuerdas es una invitación para aprender y repasar.<p><a href="https://apps.alecrem.com"><img src="img/portfolio/appstore_es.png"></a></p>
+
+---
