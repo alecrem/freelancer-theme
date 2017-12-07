@@ -6,6 +6,6 @@ img: escuchajapones.jpg
 alt: Escucha japonés
 project-date: Marzo 2008 a julio de 2010
 category: Idioma y cultura japoneses
-description: <a href="https://escuchajapones.com">Escucha japonés</a>
+description: <p>Podcast para aprender japonés con más de 80 episodios gratuitos entre audio y vídeo. </p><p><a href="https://escuchajapones.com/" class="btn btn-primary"><i class="fa fa-youtube-play"></i> Escucha japonés</a></p>
 
 ---
