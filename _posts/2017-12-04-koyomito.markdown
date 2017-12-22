@@ -6,6 +6,6 @@ img: koyomito.png
 alt: Koyomito
 project-date: Diciembre 2017
 category: Aplicación smartphone
-description: <p>Empieza una inmersión diaria en el idioma y la cultura japoneses con esta sencilla aplicación que actúa como un calendario.</p><p>En la pantalla principal está todo en kanji, pero he incluído explicaciones y pronunciaciones de un montón de cosas, así que cada kanji que no recuerdas es una invitación para aprender y repasar.</p><!-- <p><a href="https://itunes.apple.com/us/app/koyomito/id1321729547?l=es&amp;ls=1&amp;mt=8"><img src="img/portfolio/appstore_es.png"></a></p> -->
+description: <p>Empieza una inmersión diaria en el idioma y la cultura japoneses con esta sencilla aplicación que actúa como un calendario.</p><p>En la pantalla principal está todo en kanji, pero he incluído explicaciones y pronunciaciones de un montón de cosas, así que cada kanji que no recuerdas es una invitación para aprender y repasar.</p><p><a href="https://apps.alecrem.com/koyomito/" class="btn btn-primary"><i class="fa fa-external-link"></i> Más sobre Koyomito</a></p><p><a href="https://itunes.apple.com/us/app/koyomito/id1321729547?l=es&amp;ls=1&amp;mt=8"><img src="img/portfolio/appstore_es.png"></a> <a href='https://play.google.com/store/apps/details?id=com.alecrem.koyomito&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='img/portfolio/googleplay_es.png'/></p>
 
 ---
